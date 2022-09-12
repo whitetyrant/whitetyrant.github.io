@@ -3,11 +3,11 @@
   <title>结缘缘`Blog</title>
   
   <subtitle>生活晴朗，万物可爱。</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://whitetyrant.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://whitetyrant.github.io/"/>
   <updated>2022-09-12T07:03:50.214Z</updated>
-  <id>http://example.com/</id>
+  <id>https://whitetyrant.github.io/</id>
   
   <author>
     <name>结缘缘</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://whitetyrant.github.io/posts/4a17b156.html"/>
+    <id>https://whitetyrant.github.io/posts/4a17b156.html</id>
     <published>2022-09-12T05:33:12.834Z</published>
     <updated>2022-09-12T07:03:50.214Z</updated>
     
